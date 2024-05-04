@@ -7,7 +7,7 @@ export default function FormAddFriend() {
       <input type="text" />
 
       <label>🖼 Image url</label>
-      <input type="text" disabled />
+      <input type="text"/>
 
       <Button>Add</Button>
     </form>

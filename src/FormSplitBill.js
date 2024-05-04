@@ -12,7 +12,7 @@ export default function FormSplitBill() {
       <input type="text" />
 
       <label>🕴 X's expense</label>
-      <input type="text" />
+      <input type="text" disabled/>
 
       <label>🤑 Who is paying the bill</label>
       <select>
